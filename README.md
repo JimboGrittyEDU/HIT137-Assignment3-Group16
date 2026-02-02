@@ -21,4 +21,3 @@
   - Resize scale % (slider)
 - Undo/Redo
 
-Contributor: <9APE> – tested GUI menus and filters
