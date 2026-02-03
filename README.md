@@ -1,7 +1,7 @@
 # HIT137 Assignment 3 - Tkinter + OOP + OpenCV Image Editor
 
 ## How to run
-1. Install Python 3.10+
+1. Install Python 3.14
 2. Install dependencies:
    - pip install -r requirements.txt
 3. Run:
