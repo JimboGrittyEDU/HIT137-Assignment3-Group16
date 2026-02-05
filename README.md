@@ -16,7 +16,7 @@
   - Edge detection (slider)
   - Brightness (slider)
   - Contrast (slider)
-  - Rotate 90/180/270
+  - Rotate 90/180/270 degrees
   - Flip horizontal/vertical
   - Resize scale %-
 - Undo/Redo
